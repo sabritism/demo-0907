@@ -12,11 +12,15 @@ body{
 h1,h2,h3,h4{
 	font-weight:normal;
 	font-family:'FK Raster Grotesk Compact';
-s
 }
 
-p{
+*{
 	margin:0;
+}
+
+
+p{
+
 }
 h1{
 	/* main headings */
