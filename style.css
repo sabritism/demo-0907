@@ -5,7 +5,12 @@
 }
 
 body{
-	/* this is the outermost element on your page*/
+	font-family:'FK Raster Grotesk Compact';
+}
+
+h1,h2,h3,h4{
+	font-weight:normal;
+	font-family:'FK Raster Grotesk Compact';
 }
 
 h1{
