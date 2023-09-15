@@ -1,3 +1,9 @@
+@font-face{
+	font-family:'FK Raster Grotesk Compact';
+	src:url(FKRasterGroteskCompact-Blended.woff2) format('woff2');
+	font-weight: 400;
+}
+
 body{
 	/* this is the outermost element on your page*/
 }
