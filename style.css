@@ -6,15 +6,18 @@
 
 body{
 	font-family:'FK Raster Grotesk Compact';
-	color:indigo;
+
 }
 
 h1,h2,h3,h4{
 	font-weight:normal;
 	font-family:'FK Raster Grotesk Compact';
-	color:salmon;
+s
 }
 
+p{
+	margin:0;
+}
 h1{
 	/* main headings */
 }
